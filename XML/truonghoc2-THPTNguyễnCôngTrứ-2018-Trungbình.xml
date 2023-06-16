@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Results>
+ <Student>
+  <HoTen>Cao Yến</HoTen>
+  <NTNS>2001-12-13</NTNS>
+  <DiemTB>6.18</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuê Vũ</HoTen>
+  <NTNS>2001-08-20</NTNS>
+  <DiemTB>5.68</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiền Tâm</HoTen>
+  <NTNS>2001-02-15</NTNS>
+  <DiemTB>5.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tạ Vinh</HoTen>
+  <NTNS>2001-06-18</NTNS>
+  <DiemTB>6.21</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiền Hạnh</HoTen>
+  <NTNS>2001-07-31</NTNS>
+  <DiemTB>6.36</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Diệp Thư</HoTen>
+  <NTNS>2001-01-01</NTNS>
+  <DiemTB>5.56</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thượng Thêu</HoTen>
+  <NTNS>2001-07-07</NTNS>
+  <DiemTB>6.44</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tôn Hạnh</HoTen>
+  <NTNS>2001-09-01</NTNS>
+  <DiemTB>5.94</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trịnh Nguyệt</HoTen>
+  <NTNS>2001-04-08</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngưu Long</HoTen>
+  <NTNS>2001-01-04</NTNS>
+  <DiemTB>5.74</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chử Việt</HoTen>
+  <NTNS>2001-05-10</NTNS>
+  <DiemTB>5.59</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hàn Oanh</HoTen>
+  <NTNS>2001-12-25</NTNS>
+  <DiemTB>5.24</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vũ Mai</HoTen>
+  <NTNS>2001-12-05</NTNS>
+  <DiemTB>5.38</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiết Khiêm</HoTen>
+  <NTNS>2001-10-17</NTNS>
+  <DiemTB>5.78</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thượng Trung</HoTen>
+  <NTNS>2001-04-13</NTNS>
+  <DiemTB>5.17</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiết Quyên</HoTen>
+  <NTNS>2001-03-26</NTNS>
+  <DiemTB>5.37</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đỗ Hưng</HoTen>
+  <NTNS>2001-12-02</NTNS>
+  <DiemTB>6.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuất Như</HoTen>
+  <NTNS>2001-04-06</NTNS>
+  <DiemTB>5.21</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiền Thi</HoTen>
+  <NTNS>2001-10-13</NTNS>
+  <DiemTB>6.20</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lục Khanh</HoTen>
+  <NTNS>2001-01-07</NTNS>
+  <DiemTB>5.27</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chử Ly</HoTen>
+  <NTNS>2001-01-07</NTNS>
+  <DiemTB>5.06</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lý Ðình</HoTen>
+  <NTNS>2001-06-24</NTNS>
+  <DiemTB>6.37</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đinh Tụ</HoTen>
+  <NTNS>2001-07-16</NTNS>
+  <DiemTB>5.83</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mai Hiếu</HoTen>
+  <NTNS>2001-01-08</NTNS>
+  <DiemTB>6.40</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hà Thu</HoTen>
+  <NTNS>2001-08-04</NTNS>
+  <DiemTB>5.92</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vũ Diễm</HoTen>
+  <NTNS>2001-10-18</NTNS>
+  <DiemTB>6.42</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Cao Xuân</HoTen>
+  <NTNS>2001-08-13</NTNS>
+  <DiemTB>5.27</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiết Cẩm</HoTen>
+  <NTNS>2001-01-01</NTNS>
+  <DiemTB>5.96</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Giao Vinh</HoTen>
+  <NTNS>2001-08-09</NTNS>
+  <DiemTB>5.85</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đào Anh</HoTen>
+  <NTNS>2001-07-26</NTNS>
+  <DiemTB>6.08</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Từ Minh</HoTen>
+  <NTNS>2001-04-24</NTNS>
+  <DiemTB>5.16</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lý Minh</HoTen>
+  <NTNS>2001-12-02</NTNS>
+  <DiemTB>5.66</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngưu Thi</HoTen>
+  <NTNS>2001-05-18</NTNS>
+  <DiemTB>5.46</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thái Ý</HoTen>
+  <NTNS>2001-01-16</NTNS>
+  <DiemTB>6.43</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Triệu Bích</HoTen>
+  <NTNS>2001-02-23</NTNS>
+  <DiemTB>5.52</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tạ Ðức</HoTen>
+  <NTNS>2001-02-08</NTNS>
+  <DiemTB>5.51</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Dịch Phúc</HoTen>
+  <NTNS>2001-09-04</NTNS>
+  <DiemTB>5.07</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hứa Thuận</HoTen>
+  <NTNS>2001-06-20</NTNS>
+  <DiemTB>5.13</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngưu Kiều</HoTen>
+  <NTNS>2001-08-04</NTNS>
+  <DiemTB>6.46</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ninh Kiếm</HoTen>
+  <NTNS>2001-10-16</NTNS>
+  <DiemTB>5.99</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sơn Nguyên</HoTen>
+  <NTNS>2002-09-24</NTNS>
+  <DiemTB>5.58</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hà Hảo</HoTen>
+  <NTNS>2002-04-15</NTNS>
+  <DiemTB>6.13</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đoàn Minh</HoTen>
+  <NTNS>2002-11-08</NTNS>
+  <DiemTB>5.49</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Văn</HoTen>
+  <NTNS>2002-05-14</NTNS>
+  <DiemTB>5.50</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Giang Hiền</HoTen>
+  <NTNS>2002-05-01</NTNS>
+  <DiemTB>6.05</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đặng Thái</HoTen>
+  <NTNS>2002-02-26</NTNS>
+  <DiemTB>6.13</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuất Diễm</HoTen>
+  <NTNS>2002-07-16</NTNS>
+  <DiemTB>5.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Quách Bá</HoTen>
+  <NTNS>2002-06-17</NTNS>
+  <DiemTB>6.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hồ Thiện</HoTen>
+  <NTNS>2002-05-24</NTNS>
+  <DiemTB>5.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bác Tuyền</HoTen>
+  <NTNS>2002-12-18</NTNS>
+  <DiemTB>6.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hàn Thúy</HoTen>
+  <NTNS>2002-04-11</NTNS>
+  <DiemTB>5.99</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Diệp Ðức</HoTen>
+  <NTNS>2002-12-14</NTNS>
+  <DiemTB>6.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tăng Minh</HoTen>
+  <NTNS>2002-07-20</NTNS>
+  <DiemTB>6.19</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Hùng</HoTen>
+  <NTNS>2002-11-26</NTNS>
+  <DiemTB>6.19</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khương Ý</HoTen>
+  <NTNS>2002-02-27</NTNS>
+  <DiemTB>6.49</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lục Hảo</HoTen>
+  <NTNS>2002-10-22</NTNS>
+  <DiemTB>6.40</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đinh Quốc</HoTen>
+  <NTNS>2002-05-04</NTNS>
+  <DiemTB>5.12</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sử Phượng</HoTen>
+  <NTNS>2002-12-04</NTNS>
+  <DiemTB>6.32</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vương Tiên</HoTen>
+  <NTNS>2002-08-17</NTNS>
+  <DiemTB>6.17</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Nhật</HoTen>
+  <NTNS>2002-02-13</NTNS>
+  <DiemTB>5.16</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hứa Tuyền</HoTen>
+  <NTNS>2002-06-29</NTNS>
+  <DiemTB>5.26</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Nguyễn Đăng</HoTen>
+  <NTNS>2002-02-02</NTNS>
+  <DiemTB>6.17</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiết Chi</HoTen>
+  <NTNS>2002-04-12</NTNS>
+  <DiemTB>5.71</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bạch Việt</HoTen>
+  <NTNS>2002-07-18</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Huỳnh Phúc</HoTen>
+  <NTNS>2002-01-02</NTNS>
+  <DiemTB>6.41</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đỗ Minh</HoTen>
+  <NTNS>2002-06-09</NTNS>
+  <DiemTB>5.14</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hồ Minh</HoTen>
+  <NTNS>2002-04-20</NTNS>
+  <DiemTB>5.88</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đồng Việt</HoTen>
+  <NTNS>2002-09-09</NTNS>
+  <DiemTB>6.42</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Kỳ Hạnh</HoTen>
+  <NTNS>2002-03-10</NTNS>
+  <DiemTB>5.63</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Bình</HoTen>
+  <NTNS>2002-05-17</NTNS>
+  <DiemTB>6.11</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khang Hồng</HoTen>
+  <NTNS>2002-03-29</NTNS>
+  <DiemTB>5.46</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Quách Kiều</HoTen>
+  <NTNS>2002-04-30</NTNS>
+  <DiemTB>6.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sử Nương</HoTen>
+  <NTNS>2002-02-20</NTNS>
+  <DiemTB>6.20</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đinh Thiên</HoTen>
+  <NTNS>2002-06-15</NTNS>
+  <DiemTB>6.16</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Âu Trang</HoTen>
+  <NTNS>2002-03-15</NTNS>
+  <DiemTB>6.03</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phí Nhân</HoTen>
+  <NTNS>2002-03-27</NTNS>
+  <DiemTB>6.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Giang Thùy</HoTen>
+  <NTNS>2002-07-28</NTNS>
+  <DiemTB>5.92</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trịnh Vân</HoTen>
+  <NTNS>2002-06-09</NTNS>
+  <DiemTB>6.24</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thái Hải</HoTen>
+  <NTNS>2002-07-28</NTNS>
+  <DiemTB>6.06</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khương Bảo</HoTen>
+  <NTNS>2002-11-21</NTNS>
+  <DiemTB>6.00</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Từ Hồng</HoTen>
+  <NTNS>2002-03-11</NTNS>
+  <DiemTB>6.28</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Cao Phúc</HoTen>
+  <NTNS>2002-12-10</NTNS>
+  <DiemTB>6.49</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hình Ðịnh</HoTen>
+  <NTNS>2002-07-22</NTNS>
+  <DiemTB>5.75</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hứa Thúy</HoTen>
+  <NTNS>2002-10-31</NTNS>
+  <DiemTB>6.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngưu Cung</HoTen>
+  <NTNS>2002-11-09</NTNS>
+  <DiemTB>5.53</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuất Ấu</HoTen>
+  <NTNS>2002-10-06</NTNS>
+  <DiemTB>5.62</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chử Sơn</HoTen>
+  <NTNS>2002-01-01</NTNS>
+  <DiemTB>6.18</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tôn Tuyết</HoTen>
+  <NTNS>2002-06-16</NTNS>
+  <DiemTB>5.04</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sử Thảo</HoTen>
+  <NTNS>2002-05-06</NTNS>
+  <DiemTB>6.44</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngụy Tiểu</HoTen>
+  <NTNS>2002-03-14</NTNS>
+  <DiemTB>6.30</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trương Nhung</HoTen>
+  <NTNS>2002-12-19</NTNS>
+  <DiemTB>6.24</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngô Thế</HoTen>
+  <NTNS>2002-11-01</NTNS>
+  <DiemTB>5.11</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mai Việt</HoTen>
+  <NTNS>2002-06-30</NTNS>
+  <DiemTB>5.58</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Dịch Phong</HoTen>
+  <NTNS>2002-09-26</NTNS>
+  <DiemTB>6.29</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phạm Giang</HoTen>
+  <NTNS>2002-06-21</NTNS>
+  <DiemTB>6.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vũ Hữu</HoTen>
+  <NTNS>2002-11-26</NTNS>
+  <DiemTB>6.28</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tạ Bạch</HoTen>
+  <NTNS>2002-10-26</NTNS>
+  <DiemTB>5.89</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sơn Cẩm</HoTen>
+  <NTNS>2002-12-13</NTNS>
+  <DiemTB>6.32</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hàn Tuyết</HoTen>
+  <NTNS>2002-05-07</NTNS>
+  <DiemTB>5.80</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiền Giang</HoTen>
+  <NTNS>2002-04-14</NTNS>
+  <DiemTB>5.73</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngân Thu</HoTen>
+  <NTNS>2002-01-04</NTNS>
+  <DiemTB>5.72</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Triệu Ðạt</HoTen>
+  <NTNS>2002-11-24</NTNS>
+  <DiemTB>6.35</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Yến</HoTen>
+  <NTNS>2002-06-09</NTNS>
+  <DiemTB>5.72</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phạm Long</HoTen>
+  <NTNS>2002-08-13</NTNS>
+  <DiemTB>5.75</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hứa Chi</HoTen>
+  <NTNS>2002-01-15</NTNS>
+  <DiemTB>5.62</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trịnh Hường</HoTen>
+  <NTNS>2002-05-20</NTNS>
+  <DiemTB>5.72</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hồ Tâm</HoTen>
+  <NTNS>2002-03-07</NTNS>
+  <DiemTB>6.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tôn Khánh</HoTen>
+  <NTNS>2002-03-09</NTNS>
+  <DiemTB>5.51</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lương Vân</HoTen>
+  <NTNS>2002-10-23</NTNS>
+  <DiemTB>5.67</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hình Thục</HoTen>
+  <NTNS>2002-07-16</NTNS>
+  <DiemTB>5.56</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bạch Ý</HoTen>
+  <NTNS>2002-04-29</NTNS>
+  <DiemTB>6.11</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chu Hưng</HoTen>
+  <NTNS>2002-12-20</NTNS>
+  <DiemTB>5.97</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lý Sơn</HoTen>
+  <NTNS>2002-07-08</NTNS>
+  <DiemTB>6.18</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngân Vi</HoTen>
+  <NTNS>2003-12-02</NTNS>
+  <DiemTB>5.79</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Giao Lộc</HoTen>
+  <NTNS>2003-08-04</NTNS>
+  <DiemTB>5.60</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sử Minh</HoTen>
+  <NTNS>2003-08-24</NTNS>
+  <DiemTB>5.26</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Từ Việt</HoTen>
+  <NTNS>2003-02-02</NTNS>
+  <DiemTB>6.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tống Thanh</HoTen>
+  <NTNS>2003-09-03</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tề Tấn</HoTen>
+  <NTNS>2003-06-15</NTNS>
+  <DiemTB>6.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đặng Linh</HoTen>
+  <NTNS>2003-01-11</NTNS>
+  <DiemTB>6.23</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lê Hà</HoTen>
+  <NTNS>2003-04-01</NTNS>
+  <DiemTB>6.32</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngụy Ái</HoTen>
+  <NTNS>2003-12-10</NTNS>
+  <DiemTB>5.72</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tôn Hoàng</HoTen>
+  <NTNS>2003-12-31</NTNS>
+  <DiemTB>5.94</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khương Thúy</HoTen>
+  <NTNS>2003-08-14</NTNS>
+  <DiemTB>6.48</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mai Ðình</HoTen>
+  <NTNS>2003-08-31</NTNS>
+  <DiemTB>5.62</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Nguyễn An</HoTen>
+  <NTNS>2003-08-26</NTNS>
+  <DiemTB>6.35</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vương An</HoTen>
+  <NTNS>2003-06-10</NTNS>
+  <DiemTB>6.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bác Việt</HoTen>
+  <NTNS>2003-07-26</NTNS>
+  <DiemTB>5.60</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thái Vân</HoTen>
+  <NTNS>2003-05-09</NTNS>
+  <DiemTB>6.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phùng Hải</HoTen>
+  <NTNS>2003-05-29</NTNS>
+  <DiemTB>6.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Võ Tấn</HoTen>
+  <NTNS>2003-12-03</NTNS>
+  <DiemTB>5.54</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuất Diệu</HoTen>
+  <NTNS>2003-11-25</NTNS>
+  <DiemTB>6.32</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đới Nhất</HoTen>
+  <NTNS>2003-09-10</NTNS>
+  <DiemTB>6.45</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lâm Diệu</HoTen>
+  <NTNS>2003-03-06</NTNS>
+  <DiemTB>6.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hứa Diệu</HoTen>
+  <NTNS>2003-06-28</NTNS>
+  <DiemTB>5.63</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khương Kim</HoTen>
+  <NTNS>2003-12-06</NTNS>
+  <DiemTB>6.35</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vương Thiện</HoTen>
+  <NTNS>2003-07-08</NTNS>
+  <DiemTB>5.25</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phí Trường</HoTen>
+  <NTNS>2003-03-07</NTNS>
+  <DiemTB>5.79</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ninh Sinh</HoTen>
+  <NTNS>2003-04-25</NTNS>
+  <DiemTB>5.47</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lý Giang</HoTen>
+  <NTNS>2003-07-17</NTNS>
+  <DiemTB>6.23</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đồng Thu</HoTen>
+  <NTNS>2003-03-26</NTNS>
+  <DiemTB>6.20</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khang Thế</HoTen>
+  <NTNS>2003-04-12</NTNS>
+  <DiemTB>5.24</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hồ Triết</HoTen>
+  <NTNS>2003-01-26</NTNS>
+  <DiemTB>5.87</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đào Mẫn</HoTen>
+  <NTNS>2003-12-14</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trịnh Ðường</HoTen>
+  <NTNS>2003-07-07</NTNS>
+  <DiemTB>6.10</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thượng Diệu</HoTen>
+  <NTNS>2003-03-18</NTNS>
+  <DiemTB>6.02</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Từ Thông</HoTen>
+  <NTNS>2003-09-02</NTNS>
+  <DiemTB>6.30</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Quách Kiều</HoTen>
+  <NTNS>2003-03-26</NTNS>
+  <DiemTB>6.28</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ninh Xuân</HoTen>
+  <NTNS>2003-02-26</NTNS>
+  <DiemTB>5.29</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phùng Hòa</HoTen>
+  <NTNS>2003-04-20</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chu Di</HoTen>
+  <NTNS>2003-11-16</NTNS>
+  <DiemTB>5.41</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đồng Anh</HoTen>
+  <NTNS>2003-10-09</NTNS>
+  <DiemTB>6.00</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tề Ðinh</HoTen>
+  <NTNS>2003-06-28</NTNS>
+  <DiemTB>6.10</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thượng Hồng</HoTen>
+  <NTNS>2003-03-19</NTNS>
+  <DiemTB>6.39</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lý Chi</HoTen>
+  <NTNS>2003-10-03</NTNS>
+  <DiemTB>5.37</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ninh Vân</HoTen>
+  <NTNS>2003-03-06</NTNS>
+  <DiemTB>5.06</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngụy Du</HoTen>
+  <NTNS>2003-11-15</NTNS>
+  <DiemTB>5.86</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đặng Tiểu</HoTen>
+  <NTNS>2003-02-12</NTNS>
+  <DiemTB>6.00</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Giao Ngọc</HoTen>
+  <NTNS>2003-11-27</NTNS>
+  <DiemTB>5.62</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuê Kim</HoTen>
+  <NTNS>2003-09-08</NTNS>
+  <DiemTB>5.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đinh Minh</HoTen>
+  <NTNS>2003-06-05</NTNS>
+  <DiemTB>6.21</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Giao Minh</HoTen>
+  <NTNS>2003-03-30</NTNS>
+  <DiemTB>6.04</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuất Chí</HoTen>
+  <NTNS>2003-12-02</NTNS>
+  <DiemTB>5.76</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngô Phúc</HoTen>
+  <NTNS>2003-12-29</NTNS>
+  <DiemTB>5.32</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lục Huy</HoTen>
+  <NTNS>2003-04-11</NTNS>
+  <DiemTB>5.57</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tạ Kiên</HoTen>
+  <NTNS>2003-04-22</NTNS>
+  <DiemTB>5.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hoàng Chí</HoTen>
+  <NTNS>2003-01-01</NTNS>
+  <DiemTB>5.07</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vũ Công</HoTen>
+  <NTNS>2003-04-11</NTNS>
+  <DiemTB>5.92</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hà Nga</HoTen>
+  <NTNS>2003-01-05</NTNS>
+  <DiemTB>6.31</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ninh Mạnh</HoTen>
+  <NTNS>2003-06-09</NTNS>
+  <DiemTB>5.94</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trần Hồng</HoTen>
+  <NTNS>2003-04-19</NTNS>
+  <DiemTB>6.03</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Vương Xuân</HoTen>
+  <NTNS>2003-02-23</NTNS>
+  <DiemTB>6.33</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Nguyễn Huy</HoTen>
+  <NTNS>2003-01-13</NTNS>
+  <DiemTB>6.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lâm Tuyết</HoTen>
+  <NTNS>2003-06-11</NTNS>
+  <DiemTB>5.96</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hàn Trâm</HoTen>
+  <NTNS>2003-12-13</NTNS>
+  <DiemTB>5.47</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chung Thi</HoTen>
+  <NTNS>2003-12-09</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Quách Linh</HoTen>
+  <NTNS>2003-02-15</NTNS>
+  <DiemTB>5.05</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Dư Thành</HoTen>
+  <NTNS>2003-06-21</NTNS>
+  <DiemTB>5.25</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ngô Hưng</HoTen>
+  <NTNS>2003-08-11</NTNS>
+  <DiemTB>6.25</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Nguyễn Ðông</HoTen>
+  <NTNS>2003-06-11</NTNS>
+  <DiemTB>6.10</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tưởng Tài</HoTen>
+  <NTNS>2003-11-26</NTNS>
+  <DiemTB>6.41</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Cao Bích</HoTen>
+  <NTNS>2003-02-23</NTNS>
+  <DiemTB>5.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mục Vân</HoTen>
+  <NTNS>2003-03-10</NTNS>
+  <DiemTB>6.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Võ Thu</HoTen>
+  <NTNS>2003-10-25</NTNS>
+  <DiemTB>5.81</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hàn Uyên</HoTen>
+  <NTNS>2003-01-10</NTNS>
+  <DiemTB>6.29</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuê Minh</HoTen>
+  <NTNS>2003-12-10</NTNS>
+  <DiemTB>6.45</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đỗ Ðăng</HoTen>
+  <NTNS>2003-11-01</NTNS>
+  <DiemTB>6.20</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đinh Tâm</HoTen>
+  <NTNS>2003-09-21</NTNS>
+  <DiemTB>5.97</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lâm Hoàng</HoTen>
+  <NTNS>2003-06-02</NTNS>
+  <DiemTB>6.41</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hàn Khải</HoTen>
+  <NTNS>2003-07-03</NTNS>
+  <DiemTB>5.94</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mục Yên</HoTen>
+  <NTNS>2003-06-18</NTNS>
+  <DiemTB>5.81</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đặng Tuấn</HoTen>
+  <NTNS>2003-03-12</NTNS>
+  <DiemTB>6.46</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phạm Anh</HoTen>
+  <NTNS>2003-04-15</NTNS>
+  <DiemTB>5.03</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Kỳ Diệu</HoTen>
+  <NTNS>2003-07-02</NTNS>
+  <DiemTB>5.61</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bành Ngọc</HoTen>
+  <NTNS>2003-12-27</NTNS>
+  <DiemTB>5.77</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khang Long</HoTen>
+  <NTNS>2003-04-07</NTNS>
+  <DiemTB>6.36</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Võ Thắng</HoTen>
+  <NTNS>2003-03-28</NTNS>
+  <DiemTB>5.70</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tạ Ðăng</HoTen>
+  <NTNS>2003-02-17</NTNS>
+  <DiemTB>6.12</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tưởng Uyên</HoTen>
+  <NTNS>2003-12-21</NTNS>
+  <DiemTB>6.18</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hoàng Quang</HoTen>
+  <NTNS>2003-09-13</NTNS>
+  <DiemTB>5.09</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Kỳ Tú</HoTen>
+  <NTNS>2003-02-12</NTNS>
+  <DiemTB>5.90</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tiền Thường</HoTen>
+  <NTNS>2003-06-24</NTNS>
+  <DiemTB>6.08</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Cao Lực</HoTen>
+  <NTNS>2003-11-25</NTNS>
+  <DiemTB>6.21</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Khuất Phong</HoTen>
+  <NTNS>2003-02-19</NTNS>
+  <DiemTB>5.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đỗ Ðắc</HoTen>
+  <NTNS>2003-07-27</NTNS>
+  <DiemTB>5.06</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Thái Trúc</HoTen>
+  <NTNS>2003-09-22</NTNS>
+  <DiemTB>5.05</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phạm Lộc</HoTen>
+  <NTNS>2003-03-21</NTNS>
+  <DiemTB>5.76</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chung Võ</HoTen>
+  <NTNS>2003-12-28</NTNS>
+  <DiemTB>5.04</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Hữu</HoTen>
+  <NTNS>2003-03-07</NTNS>
+  <DiemTB>6.04</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mạch Phượng</HoTen>
+  <NTNS>2003-08-05</NTNS>
+  <DiemTB>6.21</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Hứa Long</HoTen>
+  <NTNS>2003-11-11</NTNS>
+  <DiemTB>5.24</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Triệu Quỳnh</HoTen>
+  <NTNS>2003-11-21</NTNS>
+  <DiemTB>5.41</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Chung Ðoan</HoTen>
+  <NTNS>2003-01-06</NTNS>
+  <DiemTB>5.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đỗ Huân</HoTen>
+  <NTNS>2003-08-03</NTNS>
+  <DiemTB>5.75</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lục Hào</HoTen>
+  <NTNS>2003-04-20</NTNS>
+  <DiemTB>6.07</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đới Thanh</HoTen>
+  <NTNS>2003-10-30</NTNS>
+  <DiemTB>5.06</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sơn Thơ</HoTen>
+  <NTNS>2003-08-23</NTNS>
+  <DiemTB>5.33</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Sử Phi</HoTen>
+  <NTNS>2003-04-20</NTNS>
+  <DiemTB>6.12</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đồng Việt</HoTen>
+  <NTNS>2003-12-11</NTNS>
+  <DiemTB>6.22</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Nguyễn Thắng</HoTen>
+  <NTNS>2003-09-06</NTNS>
+  <DiemTB>5.55</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Dư Sa</HoTen>
+  <NTNS>2003-08-24</NTNS>
+  <DiemTB>5.71</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Lương Lâm</HoTen>
+  <NTNS>2003-11-08</NTNS>
+  <DiemTB>5.99</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bác Ngân</HoTen>
+  <NTNS>2003-10-27</NTNS>
+  <DiemTB>6.25</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Ứng Tuyền</HoTen>
+  <NTNS>2003-04-22</NTNS>
+  <DiemTB>6.21</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phạm Trân</HoTen>
+  <NTNS>2003-12-22</NTNS>
+  <DiemTB>6.01</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Đào Phúc</HoTen>
+  <NTNS>2003-10-07</NTNS>
+  <DiemTB>5.93</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bác Thơ</HoTen>
+  <NTNS>2003-09-13</NTNS>
+  <DiemTB>6.16</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bạch Trí</HoTen>
+  <NTNS>2003-03-17</NTNS>
+  <DiemTB>6.12</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Tạ Cường</HoTen>
+  <NTNS>2003-04-20</NTNS>
+  <DiemTB>5.71</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Quách Mạnh</HoTen>
+  <NTNS>2003-08-14</NTNS>
+  <DiemTB>6.12</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Thiện</HoTen>
+  <NTNS>2003-11-15</NTNS>
+  <DiemTB>5.16</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Huy Hòa</HoTen>
+  <NTNS>2003-06-21</NTNS>
+  <DiemTB>6.15</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Phan Nam</HoTen>
+  <NTNS>2003-11-12</NTNS>
+  <DiemTB>6.44</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Bạch Trường</HoTen>
+  <NTNS>2003-10-12</NTNS>
+  <DiemTB>6.25</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trịnh Phong</HoTen>
+  <NTNS>2003-10-28</NTNS>
+  <DiemTB>5.95</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Trương Anh</HoTen>
+  <NTNS>2003-07-04</NTNS>
+  <DiemTB>6.43</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Dương Nguyên</HoTen>
+  <NTNS>2003-07-22</NTNS>
+  <DiemTB>5.25</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+ <Student>
+  <HoTen>Mạch Nghi</HoTen>
+  <NTNS>2003-09-28</NTNS>
+  <DiemTB>5.45</DiemTB>
+  <XepLoai>Trung bình</XepLoai>
+  <Kqua>Hoàn thành</Kqua>
+ </Student>
+</Results>

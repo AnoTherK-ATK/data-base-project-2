@@ -1,0 +1,6 @@
+source S:/it004/da2/CreateSchema1.sql
+source S:/it004/da2/CreateSchema2.sql
+source S:/it004/da2/result/truonghoc1.sql
+source S:/it004/da2/result/truonghoc2.sql
+source S:/it004/da2/result/hoc1.sql
+source S:/it004/da2/result/hoc2.sql
