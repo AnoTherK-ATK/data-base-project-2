@@ -83,11 +83,11 @@ def generateStudent(s1, s2):
     IDList = {}
     
     # write query
-    for batch in range(100):
+    for batch in range(10):
         print(batch)
         hsQuery = "INSERT INTO hs VALUES"
         hocQuery = "INSERT INTO hoc VALUES"
-        for i in range(10000):
+        for i in range(10):
             if(i != 0):
                 hsQuery += ", "
                 hocQuery += ", "
